@@ -89,6 +89,8 @@ You can delete your registered phone number at any time through the in-game Sett
 - Your registration token is invalidated.
 - Twilio may retain related records subject to their own data retention policies (see above).
 
+Even if you uninstall the Game without deleting your phone number, it will be **automatically deleted within 72 hours** due to our data retention policy.
+
 You may also request deletion by contacting us at the email address above.
 
 ### Right to Withdraw Consent
